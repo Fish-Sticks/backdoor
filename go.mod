@@ -1,4 +1,4 @@
-module server/test
+module server/backdoor
 
 go 1.21.6
 
